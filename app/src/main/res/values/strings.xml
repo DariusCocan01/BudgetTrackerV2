@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BudgetTrackerv2</string>
+    <string name="AddExpense">Add Expense</string>
+    <string name="Select">Select Item</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Utilities</item>
+        <item>Rent</item>
+        <item>Car</item>
+        <item>Going out</item>
+        <item>House</item>
+        <item>Others</item>
+    </string-array>
+</resources>

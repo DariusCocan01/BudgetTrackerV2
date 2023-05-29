@@ -78,6 +78,7 @@ public class DataBase extends SQLiteOpenHelper {
         db.close();
         return returnList;
     }
+
     public List<MyData> getSpendingsFromMonth(int i){
         List<MyData> returnList = new ArrayList<>();
 

@@ -17,13 +17,13 @@ public class MyData {
 
     @Override
     public String toString() {
-        return "MyData{" +
-                "day=" + day +
+        return expense + "RON for " + category + " at " + day + "."+ month+"."+year;
+                /*"day=" + day +
                 ", month=" + month +
                 ", year=" + year +
                 ", expense=" + expense +
                 ", category='" + category + '\'' +
-                '}';
+                '}';*/
     }
 
     public int getDay() {
